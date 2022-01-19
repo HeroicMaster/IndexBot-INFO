@@ -33,6 +33,10 @@ For the purposes of this Privacy Policy:
 
 * **Website** refers to IndexBot Website, accessible from https://index-bot.com
 
+* **Discord** refers to third-party service users access our service through, accessible from https://discord.com
+
+* **Index** refers to IndexBot account through discord, used by our service.
+
 * **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
 ## Collecting and Using Your Personal Data
@@ -44,6 +48,8 @@ For the purposes of this Privacy Policy:
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
 * Usage Data
+* Discord User Data (Id, Creation Date, AvatarUrl, Servers/Guilds the Index Users has ran commands in)
+* Discord Server / Discord Guild (Id, Creation, AvatarUrl, Index Users) 
 
 ### Use of Your Personal Data
 
@@ -108,5 +114,6 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, You can contact us:
 
 * By Email: index@indexbot.gg
-
+* By DiscordServer: https://discord.gg/indexbot
+* By DiscordUser: xxxShadowxxx#6669 or Junko#6276
 
