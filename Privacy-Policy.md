@@ -1,6 +1,6 @@
 # IndexBot Privacy Policy
 
-Last updated: January 19, 2022
+Last updated: January 24, 2022
 
 This Privacy Policy describes our policies and procedures on the collection, use, and disclosure of your information when You use the Service and tells You about your privacy rights and how the law protects You.
 
