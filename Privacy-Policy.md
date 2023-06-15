@@ -115,5 +115,5 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 * By Email: index@indexbot.gg
 * By DiscordServer: https://discord.gg/indexbot
-* By DiscordUser: xxxShadowxxx#6669 or Junko#6276
+* By DiscordUser: ShadowEvolution or .Junko
 
