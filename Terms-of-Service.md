@@ -3,9 +3,9 @@
 Effective Date: Tuesday, June 17th, 2023
 
 By using Index ("the bot"), you (“the user”) agree to be bound by the following terms and conditions (“Terms of Service”). Failure to comply with these terms may result in actions being taken against your account, up to and including permanent banning from using our services.
-Acceptable Use
 
-## You agree:
+## Acceptable Use
+You agree:
 
 - Not to use multiple or alternate accounts to execute any commands.
 - Not to use any form of automation, macros, or self-spam/bot code.
