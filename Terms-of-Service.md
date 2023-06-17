@@ -47,9 +47,9 @@ Index does not, and will never, sell characters for real-world currency, includi
 
 Index respects the intellectual property rights of others. If you are a copyright owner or an agent thereof, and believe that any content available within Index infringes upon your copyrights, you may submit a takedown request. Please provide us with the following information:
 - A description of the copyrighted work that you claim has been infringed.    A description of where the material that you claim is infringing is located within Index.
--Your address, telephone number, and email address.
--A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.
--A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
+- Your address, telephone number, and email address.
+- A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.
+- A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 
 Takedown requests can be submitted through our support server or by sending an email to dmca@Index.gg. We will review and address takedown requests in accordance with applicable copyright laws.
 
