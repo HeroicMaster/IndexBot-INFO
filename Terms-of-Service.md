@@ -57,6 +57,10 @@ Takedown requests can be submitted through our support server or by sending an e
 
 We reserve the right to modify these Terms of Service at any time. Changes will be effective as of the date they are posted. It is your responsibility to review these Terms of Service periodically to be aware of any changes.
 
+## Privacy Policy
+
+By using IndexBot, you also agree to our Privacy Policy, which explains how we collect, use, and share your information. Please review our Privacy Policy to understand our practices. The Privacy Policy is available at [Privacy Policy](https://github.com/gananallenmckenzie/IndexBot-INFO/blob/cb4d81705b7661a9130ff62000b0753ee8c0c80f/Privacy-Policy.md)
+
 ## Contact
 
 If you have any questions or concerns regarding these Terms of Service, please contact us through our support server.
